@@ -5,12 +5,10 @@
 ## Compile & Run
 
 ### Compile 
-cd assignment_1
-gcc -o assignment_1 layer.c main.c neuron.c -lm
-
+    make
+    cd bin
 ### Run
-./assignment_1
-
+    ./run
 ## Example
 Enter the number of Layers in Neural Network:
 4
