@@ -11,7 +11,8 @@ gcc -o assignment_1 layer.c main.c neuron.c -lm
 ### Run
 ./assignment_1
 
-ˋˋ ˋEnter the number of Layers in Neural Network:
+## Example
+Enter the number of Layers in Neural Network:
 4
 Enter number of neurons in layer[1]:
 2
@@ -121,4 +122,4 @@ Output: 1
 
 Enter input to test:
 1 1
-Output: 0ˋ ˋˋ
+Output: 0
