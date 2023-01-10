@@ -11,38 +11,38 @@
     ./run
 ## Example
 Enter the number of Layers in Neural Network:
-4
+4   
 Enter number of neurons in layer[1]:
-2
+2   
 Enter number of neurons in layer[2]:
-4
+4   
 Enter number of neurons in layer[3]:
-4
+4   
 Enter number of neurons in layer[4]:
-1
+1   
 
-Created Layer: 1
-Number of Neurons in Layer 1: 2
-Neuron 1 in Layer 1 created
-Neuron 2 in Layer 1 created
+Created Layer: 1    
+Number of Neurons in Layer 1: 2 
+Neuron 1 in Layer 1 created 
+Neuron 2 in Layer 1 created 
 
-Created Layer: 2
-Number of Neurons in Layer 2: 4
-Neuron 1 in Layer 2 created
-Neuron 2 in Layer 2 created
-Neuron 3 in Layer 2 created
-Neuron 4 in Layer 2 created
+Created Layer: 2    
+Number of Neurons in Layer 2: 4 
+Neuron 1 in Layer 2 created 
+Neuron 2 in Layer 2 created 
+Neuron 3 in Layer 2 created 
+Neuron 4 in Layer 2 created 
 
-Created Layer: 3
-Number of Neurons in Layer 3: 4
-Neuron 1 in Layer 3 created
-Neuron 2 in Layer 3 created
-Neuron 3 in Layer 3 created
-Neuron 4 in Layer 3 created
+Created Layer: 3    
+Number of Neurons in Layer 3: 4 
+Neuron 1 in Layer 3 created 
+Neuron 2 in Layer 3 created 
+Neuron 3 in Layer 3 created 
+Neuron 4 in Layer 3 created 
 
-Created Layer: 4
-Number of Neurons in Layer 4: 1
-Neuron 1 in Layer 4 created
+Created Layer: 4    
+Number of Neurons in Layer 4: 1 
+Neuron 1 in Layer 4 created 
 
 
 Initializing weights...
